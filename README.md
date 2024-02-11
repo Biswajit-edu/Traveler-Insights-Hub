@@ -1,1 +1,1 @@
-# A Travel Blogging website created with HTML, CSS, and Javascript.
+# A Travel Blogging website created using HTML, CSS, and Javascript.
